@@ -1,6 +1,6 @@
 
 
-配合surfing或者box4或者https://github.com/boxproxy/box使用
+配合surfing或者box4或者 https://github.com/boxproxy/box 使用
 
 mihomo里的config.yaml添加：
 proxies:
@@ -9,7 +9,7 @@ proxies:
     server: 192.168.43.150  #这里改为自己的
     port: 8000
 proxy-groups:  
-- name: 抓包代理组
+  - name: 抓包代理组
     type: select
     proxies:
       - 🖥️ 电脑抓包代理
