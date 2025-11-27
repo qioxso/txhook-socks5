@@ -2,7 +2,7 @@
 
 配合surfing或者box4或者 https://github.com/boxproxy/box 使用
 
-mihomo里的config.yaml添加：
+mihomo里的config.yaml添加（对应部分添加到对应地方）：
 
 ```
 proxies:
