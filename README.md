@@ -1,4 +1,4 @@
-
+要求：电脑和手机同局域网。手机root，手机root可以改iptabes。
 
 配合surfing或者box4或者 https://github.com/boxproxy/box 使用
 
