@@ -20,4 +20,4 @@ rules:
   - PROCESS-NAME,com.tencent.mobileqq,抓包代理组
   - DOMAIN-SUFFIX,qq.com,抓包代理组
 ```
-不想使用代理可以使用算法助手hook com.tencent.mobileqq.msf.sdk.MsfServiceSdk这个类
+不想使用代理可以使用 算法助手 hook com.tencent.mobileqq.msf.sdk.MsfServiceSdk这个类
