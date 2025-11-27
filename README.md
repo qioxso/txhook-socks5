@@ -3,6 +3,8 @@
 配合surfing或者box4或者 https://github.com/boxproxy/box 使用
 
 mihomo里的config.yaml添加：
+
+```
 proxies:
   - name: 🖥️ 电脑抓包代理
     type: socks5 
@@ -17,3 +19,4 @@ proxy-groups:
 rules:
   - PROCESS-NAME,com.tencent.mobileqq,抓包代理组
   - DOMAIN-SUFFIX,qq.com,抓包代理组
+```
